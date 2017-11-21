@@ -7,7 +7,7 @@ package circle_line;
 
 /**
  *
- * @author DH00049
+ * @author Doston Hamrakulov
  */
 
 import java.awt.Color;

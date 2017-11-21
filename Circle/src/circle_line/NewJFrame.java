@@ -10,7 +10,7 @@ import java.util.*;
 
 /**
  *
- * @author dosto
+ * @author Doston Hamrakulov
  */
 public class NewJFrame extends javax.swing.JFrame {
 
